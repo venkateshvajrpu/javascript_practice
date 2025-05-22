@@ -1,0 +1,12 @@
+/node_modules
+/dist
+/build
+/coverage
+/logs
+/temp
+/cache
+
+package-lock.json
+
+#   git config --global user.email "you@example.com"
+#   git config --global user.name "Your Name"
